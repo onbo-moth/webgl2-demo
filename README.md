@@ -4,6 +4,8 @@ A quick project made in 2-3 days, with a WebGL2 renderer on canvas from scratch 
 
 Built with Typescript and Webpack, tested on Firefox
 
+[Demo link](https://onbo-moth.github.io/3d-demo/dist/)
+
 ## Camera controls
 
 **Right click inside the red box to lock the pointer so that you're able to move the camera.**
